@@ -1,0 +1,249 @@
+{
+    "games": [
+      {
+        "id": "cafa8222-24a8-4251-9b0b-88a9922b7410",
+        "titulo": "Hollow Knight",
+        "genero": [
+          "Accion",
+          "Aventuras",
+          "Rogue-Lite"
+        ],
+        "year": 2017,
+        "rate": 10,
+        "poster": "https://storage.googleapis.com/pod_public/1300/126596.jpg",
+        "comentario": "Maravilla de juego",
+        "estado": "Goty"
+      },
+      {
+        "id": "a9324bde-819c-4b4e-8413-0b7dcd70a9c5",
+        "titulo": "The Legend of Zelda: Tears of the Kingdom",
+        "genero": [
+          "Aventuras",
+          "RPG"
+        ],
+        "year": 2023,
+        "rate": 9.9,
+        "poster": "https://i.3djuegos.com/juegos/16711/the_legend_of_zelda_breath_of_the_wild_2/fotos/ficha/the_legend_of_zelda_breath_of_the_wild_2-5803955.webp",
+        "comentario": "Un juego revolucionario que redefine el género de mundo abierto."
+        ,"estado": "Hot"
+      },
+      {
+        "id": "c8e83a65-34df-4cd5-a7f6-1c4b707f9d2b",
+        "titulo": "Elden Ring",
+        "genero": [
+          "Accion",
+          "RPG",
+          "Souls"
+        ],
+        "year": 2022,
+        "rate": 9.9,
+        "poster": "https://storage.googleapis.com/pod_public/1300/216712.jpg",
+        "comentario": "Un juego deslumbrante con un diseño de mundo impecable."
+        ,"estado": "Goty"
+      },
+      {
+        "id": "57c32cdb-3c02-49d4-a576-e571ca492e9f",
+        "titulo": "Cyberpunk 2077: Phantom Liberty",
+        "genero": [
+          "Accion",
+          "RPG",
+          "Ciencia Ficción"
+        ],
+        "year": 2023,
+        "rate": 8.5,
+        "poster": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5",
+        "comentario": "Una expansión sólida que mejora la experiencia original."
+        ,"estado": "Completado"
+      },
+      {
+        "id": "bfb8f307-6d78-4850-8d64-9e1e2e2cfcf9",
+        "titulo": "Hogwarts Legacy",
+        "genero": [
+          "Aventuras",
+          "RPG",
+          "Fantasia"
+        ],
+        "year": 2023,
+        "rate": 8.7,
+        "poster": "https://m.media-amazon.com/images/I/81hfAVEfTmL._AC_UF894,1000_QL80_.jpg",
+        "comentario": "Una experiencia mágica para los fans del universo de Harry Potter."
+        ,"estado": "Completado"
+      },
+      {
+          "id": "d3f23c10-b94e-4d3d-914b-5a0c4a242e3e",
+          "titulo": "Starfield",
+          "genero": [
+            "RPG",
+            "Ciencia Ficción"
+          ],
+          "year": 2023,
+          "rate": 8.8,
+          "poster": "https://assets.xboxservices.com/assets/28/98/2898b802-4629-4b5d-b825-e5aee13aab8c.jpg?n=Starfield_GLP-Page-Hero-0_1083x1222_05.jpg",
+          "comentario": "Una épica aventura espacial con un vasto universo para explorar."
+          ,"estado": "Pendiente"
+        },
+        {
+          "id": "51c4f510-14a9-4cb6-93db-fc5d6c0e4bd7",
+          "titulo": "Final Fantasy XVI",
+          "genero": [
+            "RPG",
+            "Fantasia"
+          ],
+          "year": 2023,
+          "rate": 9.2,
+          "poster": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0108/yPQHi9pITw5RwQnuQcY0262O.jpg",
+          "comentario": "Un emocionante regreso a las raíces de la fantasía medieval."
+          ,"estado": "Pendiente"
+        },
+        {
+          "id": "18e02837-c10a-4cbb-9d61-78d6d7f50a18",
+          "titulo": "Metaphor Refantazio",
+          "genero": [
+            "Accion",
+            "Aventuras",
+            "RPG"
+          ],
+          "year": 2023,
+          "rate": 9.5,
+          "poster": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2406/672cc5f97e84c564649093d4f6a3726f328e0de1814ab2e0.png",
+          "comentario": "La mejor experiencia de superhéroes hasta la fecha."
+          ,"estado": "Hot"
+        },
+        {
+          "id": "87b716ea-0ec3-4d36-8221-d19f6d5c73f3",
+          "titulo": "Elden Ring Shadow erdtree",
+          "genero": [
+            "RPG",
+            "Souls"
+          ],
+          "year": 2023,
+          "rate": 9.7,
+          "poster": "https://img.youtube.com/vi/Q5Tqksul8oU/sddefault.jpg",
+          "comentario": "Un RPG de rol táctico con una profundidad increíble."
+          ,"estado": "Pendiente"
+        },
+        {
+          "id": "c9a89b3f-227c-4370-8188-54b24c43dd1a",
+          "titulo": "Diablo IV",
+          "genero": [
+            "Accion",
+            "RPG"
+          ],
+          "year": 2023,
+          "rate": 8.9,
+          "poster": "https://blz-contentstack-images.akamaized.net/v3/assets/blt77f4425de611b362/blt976b08da1cf9e58b/66df937c6a434d1da6691106/d4-edition_standard-edition_960.webp",
+          "comentario": "Oscuro, intenso y lleno de acción hack-and-slash."
+          ,"estado": "Completado"
+        },
+        {
+          "id": "b2d015e5-8e9e-4b2f-b66a-51265a31974b",
+          "titulo": "Wuthering waves",
+          "genero": [
+            "OpenWorld",
+            "Accion",
+            "Gacha"
+          ],
+          "year": 2023,
+          "rate": 8.5,
+          "poster": "https://prod.assets.earlygamecdn.com/images/wuwa-1.4-banner.jpeg?transform=banner_webp",
+          "comentario": "Un simulador de carreras impresionante con gráficos espectaculares."
+          ,"estado": "Hot"
+        },
+        {
+          "id": "8fc93b18-2b77-4b25-b2c2-540cb12c5a2d",
+          "titulo": "Alan Wake 2",
+          "genero": [
+            "Terror",
+            "Accion"
+          ],
+          "year": 2023,
+          "rate": 9.1,
+          "poster": "https://i.scdn.co/image/ab67616d0000b273c8d9919c89ac190f25003aea",
+          "comentario": "Una narrativa fascinante que mezcla terror y suspenso."
+          ,"estado": "Hot"
+        },
+        {
+          "id": "aa3dd1d7-fba7-43c2-8ba5-38b708159d3b",
+          "titulo": "Teken 8",
+          "genero": [
+            "Lucha",
+            "Accion"
+          ],
+          "year": 2023,
+          "rate": 8.7,
+          "poster": "https://cdn11.bigcommerce.com/s-k0hjo2yyrq/products/3820/images/5842/TKN8_PACKSHOT_GAME_D1_METADATA__58226.1723035534.1280.1280.jpg?c=1",
+          "comentario": "La franquicia regresa con brutalidad y gráficos impactantes."
+          ,"estado": "Pendiente"
+        },
+        {
+          "id": "e5b0a62b-c914-438c-9e7f-5bb2e1b2b8e9",
+          "titulo": "Hades II",
+          "genero": [
+            "Accion",
+            "RPG",
+            "Rogue-Lite"
+          ],
+          "year": 2024,
+          "rate": 9.3,
+          "poster": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-acu3y.png",
+          "comentario": "Un digno sucesor que promete superar al original."
+          ,"estado": "Hot"
+        },
+        {
+          "id": "e5b0a62b-c914-438c-9e7f-5bb2e1d4b8e9",
+          "titulo": "Hades I",
+          "genero": [
+            "Accion",
+            "RPG",
+            "Rogue-Lite"
+          ],
+          "year": 2024,
+          "rate": 9.3,
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyg7yCdSFtKyhBMdIaq-SiK3pxmOb3YV2AkQ&s",
+          "comentario": "Un digno sucesor que promete superar al original."
+          ,"estado": "Completado"
+        },
+        {
+          "id": "2df77bb7-92b5-4c0c-98dc-9c6c0ccf43f3",
+          "titulo": "Payday 3",
+          "genero": [
+            "Accion"
+          ],
+          "year": 2023,
+          "rate": 7.8,
+          "poster": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2616/ca279a1ef71cdc8df7f320e2aecdf1fee9879bf1fc2f6121.jpg",
+          "comentario": "Una experiencia emocionante para jugar con amigos."
+          ,"estado": "Pendiente"
+        },
+        {
+          "id": "b23a3f91-b25e-414e-9cd3-ec7aaf58205c",
+          "titulo": "Assassin's Creed Mirage",
+          "genero": [
+            "Accion",
+            "Aventuras"
+          ],
+          "year": 2023,
+          "rate": 8.9,
+          "poster": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/phwiQjbJddEg979YucUoP3Vr.png",
+          "comentario": "Un regreso a las raíces de la franquicia con mecánicas mejoradas."
+          ,"estado": "Pendiente"
+        },
+        {
+          "id": "3948cf9c-8c0f-4651-9d62-9d2f446e4e58",
+          "titulo": "TemTem",
+          "genero": [
+                "Accion"
+          ],
+          "year": 2021,
+          "rate": 8,
+          "poster": "https://m.media-amazon.com/images/I/71woDr-R3hL._AC_UF894,1000_QL80_.jpg",
+          "comentario": "Un digno sucesor que mejora todo lo que hizo grande al original."
+          ,"estado": "Completado"
+        }
+       
+    ]
+  
+    
+        }
+        
+   

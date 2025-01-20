@@ -1,0 +1,98 @@
+ [
+      {
+        "id": "1",
+        "nombre": "Jonathan Alcobendas",
+        "email": "jonathan@example.com",
+        "password": "hashed_password",
+        "rol": "admin",
+        "estado": "activo"
+      },
+      {
+        "id": "2",
+        "nombre": "Antonio Montes",
+        "email": "aMontes@example.com",
+        "password": "hashed_password",
+        "rol": "usuario",
+        "estado": "inactivo"
+      },
+      {
+          "id": "3d4e5f6g-7890-12hi-jklr-nopqrstuvwxy",
+          "nombre": "Ana Martínez",
+          "email": "ana.martinez@example.com",
+          "password": "hashed_password",
+          "rol": "usuario",
+          "estado": "activo"
+        },
+            {
+              "id": "1a2b3c4d-5678-90ef-ghij-klmnopqrstuv",
+              "nombre": "Jonathan Alcobendas",
+              "email": "jonathan@example.com",
+              "password": "hashed_password",
+              "rol": "admin",
+              "estado": "activo"
+            },
+            {
+              "id": "2b3c4d5e-6789-01fg-hijk-lmnopqrstuvw",
+              "nombre": "Usuario Ejemplo",
+              "email": "usuario@example.com",
+              "password": "hashed_password",
+              "rol": "usuario",
+              "estado": "activo"
+            },
+            {
+              "id": "3d4e5f6g-7890-12hi-jklm-nopqrstuvwxy",
+              "nombre": "Ana Martínez",
+              "email": "ana.martinez@example.com",
+              "password": "hashed_password",
+              "rol": "usuario",
+              "estado": "activo"
+            },
+            {
+              "id": "4e5f6g7h-8901-23ij-klmn-opqrstuvwxyz",
+              "nombre": "Carlos Pérez",
+              "email": "carlos.perez@example.com",
+              "password": "hashed_password",
+              "rol": "usuario",
+              "estado": "activo"
+            },
+            {
+              "id": "5f6g7h8i-9012-34jk-lmno-pqrstuvwxyza",
+              "nombre": "Lucía Rodríguez",
+              "email": "lucia.rodriguez@example.com",
+              "password": "hashed_password",
+              "rol": "moderador",
+              "estado": "activo"
+            },
+            {
+              "id": "6g7h8i9j-0123-45kl-mnop-qrstuvwxyzab",
+              "nombre": "David Gómez",
+              "email": "david.gomez@example.com",
+              "password": "hashed_password",
+              "rol": "usuario",
+              "estado": "inactivo"
+            },
+            {
+              "id": "7h8i9j0k-1234-56lm-nopq-rstuvwxyzcde",
+              "nombre": "María López",
+              "email": "maria.lopez@example.com",
+              "password": "hashed_password",
+              "rol": "admin",
+              "estado": "activo"
+            },
+            {
+              "id": "8i9j0k1l-2345-67mn-opqr-stuvwxyzabcd",
+              "nombre": "Javier Sánchez",
+              "email": "javier.sanchez@example.com",
+              "password": "hashed_password",
+              "rol": "usuario",
+              "estado": "activo"
+            },
+            {
+              "id": "9j0k1l2m-3456-78no-pqrs-tuvwxyzcdefg",
+              "nombre": "Sofía Fernández",
+              "email": "sofia.fernandez@example.com",
+              "password": "hashed_password",
+              "rol": "moderador",
+              "estado": "activo"
+            }
+          ]
